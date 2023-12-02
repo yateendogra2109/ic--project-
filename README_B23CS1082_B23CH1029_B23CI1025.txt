@@ -1,5 +1,16 @@
-we have created a file with name "initial_inventory.txt" in which given content is written about certain medicines is already inputed .So we can directly test the code
-Paracetamol 100 2.5 2023 12 31
-Aspirin 50 1.8 2024 05 15
-Ibuprofen 75 3.0 2023 10 20
-Amoxicillin 30 5.5 2023 08 25
+we have created a file with name "initial_inventory.txt" in which given content is written about certain medicines is already present .So we can directly test the code.
+
+
+"Paracetamol  100  2.5 
+Aspirin  50  1.8 
+Ibuprofen  75  3.0
+Amoxicillin  30  5.5"
+                                      OR
+We can fill the inventory manually.And perform the following desired operations on Pharmacy store management.
+
+
+This C code is a simple Pharma Store Management System. It uses structures to represent medicines with name, quantity, price. The program provides a menu-driven interface for tasks like adding, updating, and deleting medicines, displaying inventory, calculating total price, checking stock alerts, and generating bills for purchases. 
+PROJECT BY:
+Yateen B23CS1082
+Jaimil patel B23CH1029
+Tushar Nagargoje B23CI1025
