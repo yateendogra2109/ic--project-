@@ -277,3 +277,4 @@ void generateBill(Medicine inventory[], int numMedicines) {
 
     printf("\nTotal Bill: $%.2f\n", totalBill);
 }
+//hi
